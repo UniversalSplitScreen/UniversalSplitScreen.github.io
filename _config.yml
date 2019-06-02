@@ -6,9 +6,9 @@ description: >
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: https://aksakalli.github.io # the base hostname & protocol for your site
+git_address: https://github.com/UniversalSplitScreen.github.io
+git_edit_address: https://github.com/UniversalSplitScreen.github.io
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
@@ -29,7 +29,7 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Europe/Berlin
+timezone: Europe/London
 defaults:
 - scope:
     path: _posts
