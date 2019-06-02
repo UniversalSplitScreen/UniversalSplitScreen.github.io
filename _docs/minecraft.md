@@ -36,3 +36,7 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
 ## Tips
  * If you have inconsistent mouse movement, especially when moving multiple mice, make sure the polling rates on your mice are set as low as possible. You can usually set this in your mouse configuration program (look on the manufacturer's website).
  * If the mouse cursor is flickering, try setting VSync on by dragging the FPS limit slider to the left.
+ 
+ ## Default options
+ For reference, here are the default options.
+ ![](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreen.github.io/master/img/minecraft_options.png)
