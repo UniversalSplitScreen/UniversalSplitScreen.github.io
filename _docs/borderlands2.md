@@ -24,7 +24,7 @@ Borderlands 2 (BL2) supports keyboards, mice and controllers, so you can use any
 1. At the end of Target, add `-NoLauncher -AlwaysFocus -WindowPosX=0 -WindowPosY=0 -ResX=1920 -ResY=520`
     * This is for a 1920x1080 monitor. You can adjust the X/Y for your monitor.
     
-1. Create another shortcut. This time add ` -NoLauncher -AlwaysFocus -SaveDataId=2 -WindowPosX=0 -WindowPosY=0 -ResX=1920 -ResY=520` instead. Note that SaveDataId has changed.
+1. Create another shortcut. This time add `-NoLauncher -AlwaysFocus -SaveDataId=2 -WindowPosX=0 -WindowPosY=0 -ResX=1920 -ResY=520` instead. Note that SaveDataId has changed.
 
 1. Repeat for as many players as you need. Make sure to change SaveDataId. Now launch all the shortcuts.
 
