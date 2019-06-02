@@ -39,6 +39,8 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
  * If you have inconsistent mouse movement, especially when moving multiple mice, make sure the polling rates on your mice are set as low as possible. You can usually set this in your mouse configuration program (look on the manufacturer's website).
  
  * If the mouse cursor is flickering, try setting VSync on by dragging the FPS limit slider to the left.
+ 
+ * Joining a Minecraft server with 'anti-cheat' will not get you banned if you use Hooks(in the options), since servers cannot run code on your machine.
 
 
 ## Default options
