@@ -5,10 +5,10 @@ description: >
   Universal Split Screen
 lang: en-US
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://universalsplitscreen.github.io # the base hostname & protocol for your site
-git_address: https://github.com/UniversalSplitScreen/UniversalSplitScreen.github.io
-git_edit_address: https://github.com/UniversalSplitScreen/UniversalSplitScreen.github.io/blob/gh-pages
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: https://universalsplitscreen.github.io # the base hostname & protocol for your site
+#git_address: https://github.com/UniversalSplitScreen/UniversalSplitScreen.github.io
+#git_edit_address: https://github.com/UniversalSplitScreen/UniversalSplitScreen.github.io/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
