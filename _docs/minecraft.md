@@ -1,6 +1,6 @@
 ---
 title: Minecraft split screen guide
-permalink: /docs/guides/minecraft/
+permalink: /docs/minecraft/
 ---
 
 test
