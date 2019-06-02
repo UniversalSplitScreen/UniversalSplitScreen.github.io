@@ -42,7 +42,7 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
  
  * Joining a Minecraft server with 'anti-cheat' will not get you banned if you use Hooks(in the options), since servers cannot run code on your machine.
  
- * You can click Enable window resizing to remove the window title, giving you more space.
+ * You can click Toggle window borders to remove the window title, giving you more space.
 
 
 ## Default options
