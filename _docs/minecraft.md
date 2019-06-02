@@ -20,7 +20,7 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
    
 1. Make sure the games are running in windowed mode. Resize them however you like.
 
-1. Start a singleplayer world and open to LAN in the pause menu. The other player can join from the multiplayer menu.
+1. Start a singleplayer world and open to LAN in the pause menu. The other player can join from the multiplayer menu. Alternatively, you can connect to any server (with multiple Minecraft accounts) or an 'Offline' server (if you have one Minecraft account).
 
 ## Split screen setup
 1. See how to install the program in the Quick Start guide.
