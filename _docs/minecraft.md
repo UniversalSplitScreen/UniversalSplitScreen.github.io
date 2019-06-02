@@ -41,6 +41,8 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
  * If the mouse cursor is flickering, try setting VSync on by dragging the FPS limit slider to the left.
  
  * Joining a Minecraft server with 'anti-cheat' will not get you banned if you use Hooks(in the options), since servers cannot run code on your machine.
+ 
+ * You can click Enable window resizing to remove the window title, giving you more space.
 
 
 ## Default options
