@@ -22,6 +22,7 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
 
 1. Start a singleplayer world and open to LAN in the pause menu. The other player can join from the multiplayer menu. Alternatively, you can connect to any server (with multiple Minecraft accounts) or an 'Offline' server (if you have one Minecraft account).
 
+
 ## Split screen setup
 1. See how to install the program in the Quick Start guide.
 
@@ -33,13 +34,13 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
 
 1. Click Start split screen. You should now be able to play. Press End to stop.
 
+
 ## Tips
  * If you have inconsistent mouse movement, especially when moving multiple mice, make sure the polling rates on your mice are set as low as possible. You can usually set this in your mouse configuration program (look on the manufacturer's website).
  
  * If the mouse cursor is flickering, try setting VSync on by dragging the FPS limit slider to the left.
- 
- 
- ## Default options
- 
- For reference, here are the default options.
- ![Minecraft Options](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreen.github.io/master/img/minecraft_options.png)
+
+
+## Default options
+For reference, here are the default options.
+![Minecraft Options](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreen.github.io/master/img/minecraft_options.png)
