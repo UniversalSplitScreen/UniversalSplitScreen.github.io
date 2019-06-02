@@ -18,8 +18,8 @@ permalink: /docs/quickstart/
 
 1. Alt-tab into a game, then back into Universal Split Screen. You should see the Window title and Window handle change (somtimes you will need to alt+tab twice). Set the mouse, keyboard and controller as necessary. Repeat for all the instances.
 
-![Current window tab](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreen.github.io/master/img/options.png)
+    ![Current window tab](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreen.github.io/master/img/options.png)
 
-5. When you are ready, click Start split screen. You should now be able to play. Press End to stop.
+1. When you are ready, click Start split screen. You should now be able to play. Press End to stop.
 
 [guides page]: https://universalsplitscreen.github.io/docs/guides/minecraft/#collapse-3
