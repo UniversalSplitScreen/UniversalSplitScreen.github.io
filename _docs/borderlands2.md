@@ -35,3 +35,7 @@ Borderlands 2 (BL2) supports keyboards, mice and controllers, so you can use any
 1. In options, load the Borderlands 2 preset.
 1. Go back to the Current window tab. Alt+tab into the first instance. Set the mouse and keyboard or controller. Repeat for the other instances.
 1. Click Start split screen. You should now be able to play. Press End to stop.
+
+## Default options
+For reference, here are the default options.
+![Borderlands 2 options](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreen.github.io/master/img/bl2_options.png)
