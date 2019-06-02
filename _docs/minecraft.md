@@ -40,5 +40,6 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
  
  
  ## Default options
+ 
  For reference, here are the default options.
  ![Minecraft Options](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreen.github.io/master/img/minecraft_options.png)
