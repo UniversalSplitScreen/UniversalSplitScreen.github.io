@@ -24,7 +24,7 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
 
 
 ## Split screen setup
-1. See how to install the program in the Quick Start guide.
+1. See how to install Universal Split Screen in the [Quick Start guide](https://universalsplitscreen.github.io/docs/quickstart/).
 
 1. In options, select the Minecraft preset and click Load.
 
