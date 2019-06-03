@@ -8,7 +8,7 @@ Terraria supports keyboards, mice and controllers so you can use any combination
 ## Terraria setup
 1. Open the Terraria directory by right-clicking Terraria in Steam -> Properties -> Local files -> Browse game files...
 
-1. Launch Terraria.exe as many times as you need. Resize the windows however you like.
+1. Launch Terraria.exe as many times as you need. Make sure they are running in Windowed mode (see video options). Resize the windows however you like.
 
 1. On one instance, use Multiplayer -> Host & Play. On the other instances, go to Multiplayer -> Join via IP. Enter `localhost` as IP and `7777` as the port.
 
