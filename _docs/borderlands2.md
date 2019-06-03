@@ -31,7 +31,7 @@ Borderlands 2 (BL2) supports keyboards, mice and controllers, so you can use any
 1. Set LAN in Network Options for each game. Click Find Games to connect to one player.
 
 ## Split screen setup
-1. Install and run Universal Split Screen: see the quick start guide
+1. Install and run Universal Split Screen: see the [quick start guide](https://universalsplitscreen.github.io/docs/quickstart/).
 1. In options, load the Borderlands 2 preset.
 1. Go back to the Current window tab. Alt+tab into the first instance. Set the mouse and keyboard or controller. Repeat for the other instances.
 1. Click Start split screen. You should now be able to play. Press End to stop.
