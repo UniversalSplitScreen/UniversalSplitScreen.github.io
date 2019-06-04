@@ -3,7 +3,7 @@ title: Important notes
 permalink: /docs/importantnotes/
 ---
 
-* Selecting any of the Hooks in the options page will mean Universal Split Screen will run code in the process of the game. This may be detected as cheating or a virus by a game's anti-cheat or your antivirus. _**Be careful not to use hooks on any games with an anti-cheat system!**_
+* Selecting any of the Hooks in the options page will mean Universal Split Screen will run code in the process of the game. This may be detected as cheating by a game's anti-cheat or malware by your antivirus. _**Be careful not to use hooks on any games with an anti-cheat system!**_
 
 * After ending split screen with Hooks enabled, it is always best to restart all the game instances. Source games (most Valve games) will start to slow down significantly otherwise.
 
