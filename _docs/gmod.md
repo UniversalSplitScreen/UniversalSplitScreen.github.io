@@ -8,7 +8,7 @@ permalink: /docs/guides/gmod/
 1. In options, load the Source Engine preset.
 1. Go back to the Current window tab.
 
-## Gmod setup
+## Garry's Mod setup
 1. Open the GarrysMod directory by right-clicking Garry's mod in Steam -> Properties -> Local files -> Browse game files...
 
 1. Right-click hl2.exe and click Create shortcut. Rename the shortcut if you want.
