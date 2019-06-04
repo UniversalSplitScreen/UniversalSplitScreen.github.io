@@ -24,4 +24,4 @@ permalink: /docs/quickstart/
 
 1. When you are ready, click Start split screen. You should now be able to play. Press End to stop.
 
-[guides page]: https://universalsplitscreen.github.io/docs/guides/minecraft/#collapse-3
+[guides page]: https://universalsplitscreen.github.io/docs/guides/borderlands2/#collapse-3
