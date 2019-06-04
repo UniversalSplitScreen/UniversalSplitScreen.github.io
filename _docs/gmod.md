@@ -34,7 +34,7 @@ permalink: /docs/guides/gmod/
 * If you want to start and stop split screen, you should restart all instances of the game or it will start to slow down significantly.
 
 ## Split screen setup
-1. Install and run Universal Split Screen: see the quick start guide
+1. Install and run Universal Split Screen: see the [quick start guide](https://universalsplitscreen.github.io/docs/quickstart/)
 
 1. In options, load the Source Engine preset (if you have not already done so).
 
