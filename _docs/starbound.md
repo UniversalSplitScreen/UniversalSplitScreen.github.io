@@ -20,7 +20,7 @@ Starbound does not support controllers, so you will need multiple keyboards and 
 1. Disable steam overlay by right-clicking Starbound in Steam -> Properties and un-check 'Enable the Steam Overlay while in-game'
 
 ## Split screen setup
-1. Install and run Universal Split Screen: see the quick start guide
+1. Install and run Universal Split Screen: see the [quick start guide](https://universalsplitscreen.github.io/docs/quickstart/)
 
 1. In options, load the Starbound preset.
 
