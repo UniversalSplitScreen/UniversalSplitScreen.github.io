@@ -2,15 +2,6 @@
   docs:
   - quickstart
   - importantnotes
-  - home
-  - themes
-  - customization
-
-- title: Examples
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
   
 - title: Game Guides
   docs:
