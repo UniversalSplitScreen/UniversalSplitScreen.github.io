@@ -14,7 +14,8 @@
   
 - title: Game Guides
   docs:
-  - guides/minecraft
   - guides/borderlands2
-  - guides/terraria
+  - guides/minecraft
+  - guides/starbound
   - guides/stardewvalley
+  - guides/terraria  
