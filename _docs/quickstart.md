@@ -14,7 +14,7 @@ permalink: /docs/quickstart/
 
 1. Launch multiple instances of the game and connect them in multiplayer (see the [guides][guides page] for more detail).
     * For Steam games, you will need to right-click on the game -> Properties -> Local files -> Browse local files... and launch the exe manually. 
-    * You may find that the game will not let you run two instances. First try renaming steam_api.dll to steam_api.dll.disabled (or something) and seeing if that works. If it doesn't, see the page on the Goldberg emulator.
+    * You may find that the game will not let you run two instances. First try renaming steam_api.dll to steam_api.dll.disabled (or something) and seeing if that works. If it doesn't, see the page on the [Goldberg emulator](https://universalsplitscreen.github.io/docs/goldberg/).
 
 1. Go back to the Current window tab in Universal Split Screen.
 
