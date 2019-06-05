@@ -3,7 +3,7 @@ title: Don't Starve Together
 permalink: /docs/guides/dontstarvetogether
 ---
 
-## Don't Stave Together (DST) setup
+## Don't Starve Together (DST) setup
 1. Open the DST directory by right-clicking DST in Steam -> Properties -> Local files -> Browse game files...
 1. Open the `bin` directory.
 1. Create a text file called `steam_appid.txt`. Inside it, write `322330`. Save and exit.
