@@ -1,6 +1,6 @@
 ---
 title: Dont Starve Together
-permalink: /docs/guides/dst
+permalink: /docs/guides/dst/
 ---
 
 ## Don't Starve Together (DST) setup
