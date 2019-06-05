@@ -1,5 +1,5 @@
 ---
-title: Don't Starve Together
+title: Dont Starve Together
 permalink: /docs/guides/dontstarvetogether
 ---
 
