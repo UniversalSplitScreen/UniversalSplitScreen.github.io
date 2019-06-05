@@ -5,11 +5,13 @@ permalink: /docs/goldberg/
 
 (This guide is based on Goldberg Emulator v0.2.4)
 
+The original Readme for the Goldberg emulator can be found [here](https://gitlab.com/Mr_Goldberg/goldberg_emulator/blob/master/Readme_release.txt)
+
+You can find a list of games compatible with the Goldberg Emulator [here](https://www.reddit.com/r/GoldbergEmu/comments/bg7f3e/please_sticky_list_of_confirmed_workingnonworking/)
+
 Some games use Steam to prevent you from launching multiple instances, and some games use Steam for matchmaking, preventing you playing with one copy. 
 
 The Goldberg emulator replaces the Steam API dll, tricking games into letting you launch multiple instances and join the same server.
-
-The original Readme for the Goldberg emulator can be found [here](https://gitlab.com/Mr_Goldberg/goldberg_emulator/blob/master/Readme_release.txt)
  
 ## Installation
 1. Download the latest release of Goldberg [here](https://gitlab.com/Mr_Goldberg/goldberg_emulator/releases)
