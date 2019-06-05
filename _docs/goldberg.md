@@ -1,5 +1,5 @@
 ---
-title: Goldberg Guide
+title: Goldberg Emulator
 permalink: /docs/goldberg/
 ---
 
