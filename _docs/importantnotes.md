@@ -14,3 +14,5 @@ permalink: /docs/importantnotes/
 * On Windows 10, you can set each game to output to a different sound device. Right click the audio icon in the taskbar -> Open Sound settings -> App volume device preferences. Set the Output device for each game.
 
 * If a window somehow is focused during split screen, you can press Windows+B then to unfocus it.
+
+* If the program somehow crashes and input is locked, unlock input by pressing `Ctrl+Alt+Delete`
