@@ -3,6 +3,8 @@ title: Untested Games Setup
 permalink: /docs/untested/
 ---
 
+Use this guide if there isn't a guide on your game. It covers how to setup the game and how to setup the options.
+
 ## Launching multiple instances
 ### For most Steam games
 Right-click it on Steam -> Properties -> Local files -> Browse game files... to open the game directory. 
