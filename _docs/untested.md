@@ -3,10 +3,10 @@ title: Untested Games Setup
 permalink: /docs/untested/
 ---
 
-Use this guide if there isn't a guide on your game. It covers how to setup the game and how to setup the options.
+#### Use this guide if there isn't a guide on your game. It covers how to setup the game and how to setup the options.
 
 ## Launching multiple instances
-#### For most Steam games
+### For most Steam games
 Right-click it on Steam -> Properties -> Local files -> Browse game files... to open the game directory. 
 
 You will need to find an executable(exe) file for the game. 
@@ -15,7 +15,7 @@ If this isn't in the immediate directory, try looking in folders named `bin`/`wi
 Try launching the exe multiple times. 
 If it doesn't let you open multiple instances, you will probably need to manipulate steam_api.dll
 
-#### Manipulating steam_api.dll
+### Manipulating steam_api.dll
 Search for steam_api.dll and/or steam_api64.dll in the game directory. 
 
 When you find it, try renaming it to steam_api.dll.disabled (or anything) and launch the executables again. 
@@ -23,7 +23,7 @@ When you find it, try renaming it to steam_api.dll.disabled (or anything) and la
 If this doesn't work, e.g. it gives a "Couldn't load steam_api.dll" error, you will need a replacement for steam_api.dll. 
 See the guide on the [Goldberg Emulator](https://universalsplitscreen.github.io/docs/goldberg/).
 
-#### Closing a Mutex
+### Closing a Mutex
 Some games will open a mutex that indicates to any other process that the game is already running, to prevent multiple instances.
 You can close these mutexes with Process Explorer. Download it [here](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer).
 1. Run Process Explorer as administrator by right-clicking -> Run as administrator.
