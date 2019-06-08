@@ -4,6 +4,7 @@ email: ilyaki@protonmail.com
 description: >
   Universal Split Screen
 lang: en-US
+encoding: UTF-8
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://universalsplitscreen.github.io/ # the base hostname & protocol for your site
