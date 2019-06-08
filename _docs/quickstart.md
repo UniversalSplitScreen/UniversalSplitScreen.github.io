@@ -10,7 +10,7 @@ permalink: /docs/quickstart/
     * If you get an error about .NET Framework, install latest version from https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10
     
 ## Setup
-1. Go to the options tab and load a [preset][guides page] or work out which ones you need (manual setup).
+1. Go to the options tab and load a [preset][guides page] or work out which ones you need (see [untested setup](https://universalsplitscreen.github.io/docs/untested/)). To load a presest, select it in the drop-down and click Load.
 
 1. Launch multiple instances of the game and connect them in multiplayer (see the [guides][guides page] for more detail).
     * For Steam games, you will need to right-click on the game -> Properties -> Local files -> Browse local files... and launch the exe manually. 
