@@ -4,6 +4,7 @@ permalink: /docs/guides/borderlands2/
 ---
 
 Borderlands 2 (BL2) supports keyboards, mice and controllers, so you can use any combination you like.
+Borderlands: The Pre-Sequel will also work exactly the same with this guide.
 
 ## Tips before you start
 * If you have inconsistent mouse movement, especially when moving multiple mice, make sure the polling rates on your mice are set as low as possible. You can usually set this in your mouse configuration program (look on the manufacturer's website).
