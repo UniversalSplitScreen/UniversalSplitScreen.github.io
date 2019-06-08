@@ -16,3 +16,5 @@ permalink: /docs/importantnotes/
 * If a window somehow is focused during split screen, you can press Windows+B then to unfocus it.
 
 * If the program somehow crashes and input is locked, unlock input by pressing `Ctrl+Alt+Delete`
+
+* If you want to use a controller that doesn't work out of the box with a game, you will need to use [x360ce](https://universalsplitscreen.github.io/docs/x360ce/).
