@@ -6,7 +6,7 @@
   {% for post in site.docs %}
     {
 
-      "title"    : "{{ post.title | strip_html | escape }}",
+      "title"    : "{{ post.title  }}",
       "url"      : "{{ site.baseurl }}{{ post.permalink }}"
 
     } {% unless forloop.last %},{% endunless %}
