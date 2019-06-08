@@ -22,3 +22,7 @@ permalink: /docs/guides/prisonarchitect/
 1. In options, load the Prison Architect preset.
 1. Go back to the Current window tab. Alt+tab into the first instance. Set the mouse and keyboard. Repeat for the other instances.
 1. Click Start split screen. You should now be able to play. Press End to stop.
+
+## Default options
+For reference, here are the default options.
+![Prison Architect Options](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreen.github.io/master/img/prisonarchitect_options.png)
