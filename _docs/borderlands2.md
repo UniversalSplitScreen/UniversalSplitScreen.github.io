@@ -4,6 +4,7 @@ permalink: /docs/guides/borderlands2/
 ---
 
 Borderlands 2 (BL2) supports keyboards, mice and controllers, so you can use any combination you like.
+
 Borderlands: The Pre-Sequel will also work exactly the same with this guide.
 
 ## Tips before you start
