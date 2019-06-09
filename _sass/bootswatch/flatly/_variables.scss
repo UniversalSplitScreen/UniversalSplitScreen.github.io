@@ -15,11 +15,13 @@ $gray:                   #95a5a6 !default; // #555
 $gray-light:             #b4bcc2 !default;   // #999
 $gray-lighter:           #ecf0f1 !default; // #eee
 
-$brand-primary:         #226371 !default;//Originally 2C3E50
+$brand-primary:         #2C3E50 !default;//
 $brand-success:         #18BC9C !default;
 $brand-info:            #3498DB !default;
 $brand-warning:         #F39C12 !default;
 $brand-danger:          #E74C3C !default;
+
+$navbar-bkg-color2:    #226371 !default;
 
 
 //== Scaffolding
@@ -366,7 +368,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             #fff !default;
-$navbar-default-bg:                $brand-primary !default;
+$navbar-default-bg:                $navbar-bkg-color2 !default;
 $navbar-default-border:            transparent !default;
 
 // Navbar links
