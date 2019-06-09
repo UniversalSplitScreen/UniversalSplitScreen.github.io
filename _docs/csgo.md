@@ -1,5 +1,5 @@
 ---
-title: Counter Strike: Global Offensive
+title: Counter Strike Global Offensive
 permalink: /docs/guides/csgo/
 ---
 
