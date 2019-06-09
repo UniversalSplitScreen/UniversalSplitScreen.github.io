@@ -15,7 +15,7 @@ permalink: /docs/guides/gmod/
 
 1. Right-click the new shortcut and select properties.
 
-1. At the end of Target, add ` -windowed -w 1920 -h 520 -insecure +m_rawinput 0`
+1. At the end of Target, add `-windowed -w 1920 -h 520 -insecure +m_rawinput 0`
     * This is for a 1920x1080 monitor. You can adjust the width/height for your monitor.
     * The `-insecure` will prevent you from joining any Valve Anti Cheat (VAC) secured servers. You can remove it if you want, but it is risky.
 
