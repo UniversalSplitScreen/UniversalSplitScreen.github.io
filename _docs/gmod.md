@@ -4,7 +4,7 @@ permalink: /docs/guides/gmod/
 ---
 
 ## Universal Split Screen setup
-1. Install and run Universal Split Screen: see the quick start guide
+1. Install and run Universal Split Screen: see the [quick start guide](https://universalsplitscreen.github.io/docs/quickstart/).
 1. In options, load the Source Engine preset.
 1. Go back to the Current window tab.
 
