@@ -14,6 +14,8 @@ Stardew Valley supports keyboards, mice and controllers, so you can use any comb
 
 1. On all the other instances, go to Co-op -> Join LAN -> Leave the IP box empty -> Ok -> Click the save.
 
+1. In the game's options, make sure `Use Hardware Cursor` is unchecked.
+
 ## Tips before you start
 * If you have inconsistent mouse movement, especially when moving multiple mice, make sure the polling rates on your mice are set as low as possible. You can usually set this in your mouse configuration program (look on the manufacturer's website).
 
