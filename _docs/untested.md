@@ -72,6 +72,8 @@ If the game is responding to multiple mice, try enabling `Filter raw input messa
 If mouse input isn't working at this stage, it's likely that the game uses a legacy mouse input method. 
 Make sure to ***disable*** anything to do with raw input, in the options and the game itself, and enable `Send normal mouse input`, `Hook GetCursorPos`, `Hook SetCursorPos` and `Use legacy input`.
 
+To make sure the fake mouse cursor is hidden/shown when needed, check `Hook mouse visibility`. This is useful in a first person game where the cursor should stay hidden unless in a UI menu.
+
 Once you have input working correctly, try disabling the options one by one until you have the minimal setup.
 
 Save your options as a preset by clicking New, typing a name **and clicking Save**.
