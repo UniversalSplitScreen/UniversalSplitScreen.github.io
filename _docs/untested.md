@@ -30,8 +30,11 @@ You can close these mutexes with Process Explorer. Download it [here](https://do
 1. Scroll down to the game process in the list. Press Ctrl+H to open the list of handles. 
 1. Scroll down to the Mutex types.
 1. Try and find a mutex with a name related to the game, e.g. hl2_singleton_mutex. Right-click -> Close Handle. 
+    * It may sometimes not by a Mutex type, e.g. it could be an Event type.
 1. Try launching the game again from the executable. 
 1. Repeat until you are able to launch a second instance.
+
+Once you have identified the handle name, you can use the `Handle unlocker` button in Universal Split Screen. Enter the handle name in the text box and click the button to close it for the targeted game.
       
 ## Connecting the instances.
 Most games will have a LAN (Local Area Network) option that will allow you to connect to a server running on the same machine. 
