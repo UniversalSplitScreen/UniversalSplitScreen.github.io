@@ -21,6 +21,7 @@ The Goldberg emulator replaces the Steam API dll, tricking games into letting yo
 1. Rename the dlls to something different, e.g. `steam_api.dll.valve`
 1. Copy the dlls corredponding steam_api.dll and/or steam_api64.dll from the Goldberg directory to the game's directory.
 1. In the same folder, if `steam_appid.txt` doesn't already exist, create it and fill it with the app id of the game. You can find the app id of any steam game with [SteamDB](https://steamdb.info/apps/)
+1. Drag the original steam_api.dll (steam_api.dll.valve) onto generate_interfaces_file.exe in the tools folder (inside the Golberg folder). This will generate a steam_interfaces.txt file next to the steam_api.dll files.
 
 ## Setup
 1. Launch the game from its executable (exe).
