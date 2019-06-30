@@ -17,7 +17,7 @@ permalink: /docs/guides/csgo/
 
 1. Right-click the new shortcut and select properties.
 
-1. At the end of Target, add `-windowed -w 1920 -h 500 -insecure +m_rawinput 0 +sv_lan 1`
+1. At the end of Target, add `-windowed -w 1920 -h 500 -insecure +m_rawinput 1 +sv_lan 1`
     * This is for a 1920x1080 monitor. You can adjust the width/height for your monitor.
     * The `-insecure` will prevent you from joining any Valve Anti Cheat (VAC) secured servers.
 
