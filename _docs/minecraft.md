@@ -44,6 +44,8 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
  * Joining a Minecraft server with 'anti-cheat' will not get you banned if you use Hooks(in the options), since servers cannot run code on your machine.
  
  * You can click Toggle window borders to remove the window title, giving you more space.
+ 
+ * If you want to use an existing save, copy it from `C:\Users\YOUR_WINDOWS_USERNAME\AppData\Roaming\.minecraft\saves` to `MultiMC\instances\INSTANCE_NAME\.minecraft\saves`, replacing YOUR_WINDOWS_USERNAME and INSTANCE_NAME as necessary.
 
 
 ## Default options
