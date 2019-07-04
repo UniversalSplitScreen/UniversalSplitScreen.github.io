@@ -8,11 +8,9 @@ Starbound does not support controllers, so you will need multiple keyboards and 
 ## Starbound setup
 1. Open the Starbound directory by right-clicking Starbound in Steam -> Properties -> Local files -> Browse game files...
 
-1. Open Starbound\storage\starbound.config in notepad. Change `"clientIPJoinable" : false` to `"clientIPJoinable" : true` 
-
 1. Go to Starbound\win64 (or Starbound\win32 if you have a 32bit computer). Launch starbound.exe as many times you need. Resize the windows however you like.
 
-1. Start a world on one instance. On the others, go to Join game -> Choose a (different) character -> Set `127.0.0.1` as the server address and leave the port, account and password boxes empty.
+1. Start a world on one instance. Make sure IP joinable is enabled in the pause menu options. On the others, go to Join game -> Choose a (different) character -> Set `127.0.0.1` as the server address and leave the port, account and password boxes empty.
 
 ## Tips before you start
 1. If you have inconsistent mouse movement, especially when moving multiple mice, make sure the polling rates on your mice are set as low as possible. You can usually set this in your mouse configuration program (look on the manufacturer's website).
