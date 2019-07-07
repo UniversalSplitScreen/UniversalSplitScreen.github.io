@@ -14,7 +14,7 @@ permalink: /docs/guides/halflife/
 1. Open the Half Life directory by right-clicking Half Life in Steam -> Properties -> Local files -> Browse game files...
 
 1. Launch the shortcut as many times as you need.
-     * Source Engine games will usually not let you launch more than one instance. In Universal Split Screen, alt-tab into Half Life so the window is selected, then click 'Unlock Source engine for a new instance'
+     * GoldSrc Engine games will usually not let you launch more than one instance. In Universal Split Screen, alt-tab into Half Life so the window is selected, then click 'Unlock Source engine for a new instance'
 
 1. Go to Options -> Mouse. Set Raw mouse input to yes. Set Joystick to enabled if you are using a controller. (If you are using a controller, make sure to also enable `Hook XInput` in Universal Split Screen).
 
