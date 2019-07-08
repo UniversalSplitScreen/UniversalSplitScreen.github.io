@@ -1,13 +1,12 @@
 ---
 title: Minecraft
 permalink: /docs/guides/minecraft/
-youtubeId: nOvlsMehzjk
 ---
 
 Minecraft does not support controllers, so you will need multiple keyboards and mice.
 
 ## Video tutorial
-{% include youtubePlayer.html id=page.youtubeId %}
+<iframe width="420" height="315" src="http://www.youtube.com/embed/nOvlsMehzjk" frameborder="0" allowfullscreen></iframe>
 
 ## Minecraft setup
 To launch two separate Minecraft instances, we will need a launcher called MultiMC
