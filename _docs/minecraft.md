@@ -10,7 +10,7 @@ Minecraft does not support controllers, so you will need multiple keyboards and 
   <iframe 
           width="560" 
           height="315" 
-          src="https://www.youtube-nocookie.com/embed/nOvlsMehzjk" 
+          src="https://www.youtube.com/embed/nOvlsMehzjk" 
           frameborder="0" 
           allow="accelerometer; 
                  autoplay; 
