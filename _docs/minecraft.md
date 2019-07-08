@@ -17,7 +17,7 @@ Minecraft does not support controllers, so you will need multiple keyboards and 
                  encrypted-media; 
                  gyroscope; 
                  picture-in-picture" 
-          allowfullscreen>
+          allowfullscreen="allowfullscreen">
   </iframe>
 </div>
 
