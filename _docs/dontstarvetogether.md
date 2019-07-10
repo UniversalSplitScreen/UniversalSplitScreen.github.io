@@ -3,6 +3,22 @@ title: Don't Starve Together
 permalink: /docs/guides/dst/
 ---
 
+## Video tutorial
+<div class="embed-container">
+  <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/arGi0uOwh_M" 
+          frameborder="0" 
+          allow="accelerometer; 
+                 autoplay; 
+                 encrypted-media; 
+                 gyroscope; 
+                 picture-in-picture" 
+          allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
+
 ## Don't Starve Together (DST) setup
 1. Open the DST directory by right-clicking DST in Steam -> Properties -> Local files -> Browse game files...
 1. Open the `bin` directory.
