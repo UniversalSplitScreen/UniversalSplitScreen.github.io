@@ -5,6 +5,22 @@ permalink: /docs/guides/terraria/
 
 Terraria supports keyboards, mice and controllers so you can use any combination you like.
 
+## Video tutorial
+<div class="embed-container">
+  <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/0QUO31SYBvE" 
+          frameborder="0" 
+          allow="accelerometer; 
+                 autoplay; 
+                 encrypted-media; 
+                 gyroscope; 
+                 picture-in-picture" 
+          allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
+
 ## Terraria setup
 1. Open the Terraria directory by right-clicking Terraria in Steam -> Properties -> Local files -> Browse game files...
 
