@@ -7,6 +7,22 @@ Borderlands 2 (BL2) supports keyboards, mice and controllers, so you can use any
 
 Borderlands: The Pre-Sequel will also work exactly the same with this guide.
 
+## Video tutorial
+<div class="embed-container">
+  <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/XSUR1NCQows" 
+          frameborder="0" 
+          allow="accelerometer; 
+                 autoplay; 
+                 encrypted-media; 
+                 gyroscope; 
+                 picture-in-picture" 
+          allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
+
 ## Tips before you start
 * If you have inconsistent mouse movement, especially when moving multiple mice, make sure the polling rates on your mice are set as low as possible. You can usually set this in your mouse configuration program (look on the manufacturer's website).
 * If the mouse cursor is flickering, set VSync on in the Video options.
