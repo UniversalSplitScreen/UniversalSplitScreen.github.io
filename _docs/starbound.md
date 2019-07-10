@@ -5,6 +5,22 @@ permalink: /docs/guides/starbound/
 
 Starbound does not support controllers, so you will need multiple keyboards and mice.
 
+## Video tutorial
+<div class="embed-container">
+  <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/qqXZ518MACM" 
+          frameborder="0" 
+          allow="accelerometer; 
+                 autoplay; 
+                 encrypted-media; 
+                 gyroscope; 
+                 picture-in-picture" 
+          allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
+
 ## Starbound setup
 1. Open the Starbound directory by right-clicking Starbound in Steam -> Properties -> Local files -> Browse game files...
 
