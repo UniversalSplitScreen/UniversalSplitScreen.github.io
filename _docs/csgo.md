@@ -5,6 +5,22 @@ permalink: /docs/guides/csgo/
 
 #### CSGO supports keyboards, mice and controllers so you can use any combination.
 
+## Video tutorial
+<div class="embed-container">
+  <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/zDmBR0d-qs0" 
+          frameborder="0" 
+          allow="accelerometer; 
+                 autoplay; 
+                 encrypted-media; 
+                 gyroscope; 
+                 picture-in-picture" 
+          allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
+
 ## Universal Split Screen setup
 1. Install and run Universal Split Screen: see the [quick start guide](https://universalsplitscreen.github.io/docs/quickstart/).
 1. In options, load the Source Engine preset.
