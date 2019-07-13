@@ -5,6 +5,8 @@ permalink: /docs/guides/minecraft/
 
 Minecraft does not support controllers, so you will need multiple keyboards and mice.
 
+Please note that if you are using a high polling rate mouse, input will be very stuttery for about a minute after split screen starts. 
+
 ## Video tutorial
 <div class="embed-container">
   <iframe 
