@@ -7,6 +7,8 @@ Borderlands 2 (BL2) supports keyboards, mice and controllers, so you can use any
 
 Borderlands: The Pre-Sequel will also work exactly the same with this guide.
 
+Please note that the mouse cursor will be invisible when you open your inventory until you left click or right click.
+
 ## Video tutorial
 <div class="embed-container">
   <iframe 
