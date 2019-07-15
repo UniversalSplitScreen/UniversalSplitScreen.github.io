@@ -8,6 +8,7 @@ Minecraft does not support controllers, so you will need multiple keyboards and 
 Please note that if you are using a high polling rate mouse, input will be very stuttery for about a minute after split screen starts. 
 
 ## Video tutorial
+(If you are following the video, make sure to disable Raw input in Options -> Controls -> Mouse settings in Minecraft 1.14.4 or higher)
 <div class="embed-container">
   <iframe 
           width="560" 
@@ -39,6 +40,8 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
 1. Make sure the games are running in windowed mode. Resize them however you like.
 
 1. Start a singleplayer world and open to LAN in the pause menu. The other player can join from the multiplayer menu. Alternatively, you can connect to any server (with multiple Minecraft accounts) or an 'Offline' server (if you have one Minecraft account).
+
+1. (Minecraft 1.14.4 or higher) Make sure to disable Raw input in Options -> Controls -> Mouse settings.
 
 
 ## Split screen setup
