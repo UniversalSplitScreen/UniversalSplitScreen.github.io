@@ -7,6 +7,8 @@ Minecraft does not support controllers, so you will need multiple keyboards and 
 
 Please note that if you are using a high polling rate mouse, input will be very stuttery for about a minute after split screen starts. 
 
+If you are using Minecraft 1.12 or earlier, use the Minecraft 1.14.3 preset and enable "Send fake window focus messages"
+
 ## Video tutorial
 (If you are following the video, make sure to disable Raw input in Options -> Controls -> Mouse settings in Minecraft 1.14.4 or higher)
 <div class="embed-container">
