@@ -7,7 +7,7 @@ permalink: /docs/quickstart/
 1. Download the latest release zip from the [releases page](https://github.com/UniversalSplitScreen/UniversalSplitScreen/releases/latest)
 
 1. Extract the zip by right-clicking -> Extract all. Extract to wherever you like. Run UniversalSplitScreen.exe
-    * If you get an error about .NET Framework, install latest version from https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10
+    * If you get an error about .NET Framework, install latest version from [here](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10). Make sure to select the correct version of Windows in the left panel.
     
 ## Setup
 1. Go to the options tab and load a [preset][guides page] or work out which ones you need (see [untested setup](https://universalsplitscreen.github.io/docs/untested/)). To load a presest, select it in the drop-down and click Load.
