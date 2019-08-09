@@ -21,4 +21,4 @@ permalink: /docs/importantnotes/
 
 * You can use the same keyboard as the input device for multiple games. You will need to change the controls for each instance, e.g. one uses WASD and one uses the number pad.
 
-* If you get a warning like 'xinput1_4.dll not found' on Windows 7, copy `C:\Windows\System32\xinput1_3.dll` to the game directory and rename it to `xinput1_4.dll`. This will be fixed in a future version.
+* If you get a warning like 'xinput1_4.dll not found' on Windows 7, copy `C:\Windows\System32\xinput1_3.dll` to the game directory and rename it to `xinput1_4.dll`. If the game is 32-bit, copy `C:\Windows\SysWOW64\xinput1_3.dll` instead. This will be fixed in a future version.
