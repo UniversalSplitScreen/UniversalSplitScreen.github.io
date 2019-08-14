@@ -21,6 +21,8 @@ permalink: /docs/guides/factorio/
 
 1. Run the first instance by running SplitScreen1.bat. This first instance will be able to load your existing save games. Launch the other instances with SplitScreen2.bat, SplitScreen3.bat, etc.
 
+1. Make sure the instances are running in windowed mode. You can toggle windowed mode by pressing Alt+Enter.
+
 1. Host a game on the first instance by going to Play -> Multiplayer -> Host new game or Host saved game. Make sure `Public` and `Steam` are disabled. Enable `LAN` and Disable `Verify user identity`. You can choose any username you like.
 
 1. On the other instances, go to Play -> Multiplayer -> Play on LAN and select the game. You should now be in the same game.
