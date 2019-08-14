@@ -16,7 +16,7 @@ permalink: /docs/guides/halflife/
 1. Launch hl.exe as many times as you need.
      * GoldSrc Engine games will usually not let you launch more than one instance. In Universal Split Screen, alt-tab into Half Life so the window is selected, then click 'Unlock Source engine for a new instance'
 
-1. Go to Options -> Mouse. Set Raw mouse input to yes. Set Joystick to enabled if you are using a controller. (If you are using a controller, make sure to also enable `Hook XInput` in Universal Split Screen).
+1. Go to Options -> Mouse. Set Raw mouse input to **disabled**. Set Joystick to enabled if you are using a controller. (If you are using a controller, make sure to also enable `Hook XInput` in Universal Split Screen).
 
 1. On the first instance, use the server browser to find a server (***Find a server without Valve Anti Cheat, just in case***). Right-click -> View server info. Copy the IP Address.
 
