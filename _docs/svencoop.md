@@ -10,7 +10,7 @@ permalink: /docs/guides/svencoop/
 
 1. Go back to the Current window tab.
 
-## Half Life setup
+## Sven Co-op setup
 1. Open the Sven Co-op directory by right-clicking Sven Co-op in Steam -> Properties -> Local files -> Browse game files...
 
 1. Launch svencoop.exe as many times as you need.
