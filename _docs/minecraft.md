@@ -50,7 +50,9 @@ To launch two separate Minecraft instances, we will need a launcher called Multi
 1. See how to install Universal Split Screen in the [Quick Start guide](https://universalsplitscreen.github.io/docs/quickstart/).
 
 1. In options, select the preset and click Load.
-    * For Minecraft 1.14.3 and higher, you should use the `Minecraft 1.14.3` preset. For versions 1.13 to 1.14.2, use `Minecraft Alternative`. If split screen doesn't work, try the other preset (after restarting the instances).
+    * For Minecraft 1.14.3 and higher, you should use the `Minecraft 1.14.3` preset. 
+    * For versions 1.13 to 1.14.2, use `Minecraft Alternate`. If split screen doesn't work, try the other preset (after restarting the instances).
+    * For 1.12 and older, use the `Minecraft 1.14.3` preset. Make sure 'Send fake window focus messages' is enabled.
 
 1. Go back to the Current window tab.
 
