@@ -24,7 +24,7 @@ If this doesn't work, e.g. it gives a "Couldn't load steam_api.dll" error, you w
 See the guide on the [Goldberg Emulator](https://universalsplitscreen.github.io/docs/goldberg/).
 
 ### Closing a Mutex
-Some games will open a mutex that indicates to any other process that the game is already running, to prevent multiple instances.
+Some games will open a mutex that indicates to any other process that the game is already running, to prevent multiple instances. (You may also find a Semaphore or Event instead of a Mutex).
 You can close these mutexes with Process Explorer. Download it [here](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer).
 1. Run Process Explorer as administrator by right-clicking -> Run as administrator.
 1. Scroll down to the game process in the list. Press Ctrl+H to open the list of handles. 
@@ -34,8 +34,11 @@ You can close these mutexes with Process Explorer. Download it [here](https://do
 1. Try launching the game again from the executable. 
 1. Repeat until you are able to launch a second instance.
 
-Once you have identified the handle name, you can use the `Handle unlocker` button in Universal Split Screen. Enter the handle name in the text box and click the button to close it for the targeted game.
-      
+Once you have identified the handle name, you can use the `Handle unlocker` button in Universal Split Screen. Enter the handle name in the text box and click the button to close it for the targeted game. You can save it in the options tab so it is automatically filled when you load the preset.
+
+### Start up hooks
+Some games will use a call like FindWindow to check if there are any instances already running. You can use the FindWindow start up hook in the Utility tab to hook the FindWindow call before the game uses it. Some games may crash with this enabled. If they do, try enabling 'Wait for process initialisation'
+
 ## Connecting the instances.
 Most games will have a LAN (Local Area Network) option that will allow you to connect to a server running on the same machine. 
 Start a server as you normally would, then search for servers on LAN.
@@ -58,19 +61,19 @@ The options you should all enable at first are `Send normal mouse`, `Send normal
 
 Start split screen and see what results you get. If the game responds to any input, you have tricked it into thinking it's in the foreground.
 
-If keyboard input isn't working at this point, try enabling `Send raw keyboard`, `Hook GetKeyState for WASD keys` and `Hook GetAsyncKeyState`.
+If keyboard input isn't working at this point, try enabling `Send raw keyboard`, `Hook GetKeyState for all keys`, `Hook GetAsyncKeyState` and 
 
 When testing mouse input, there are a few components that need to work: Camera in first person games, clicking in first person, moving the mouse in menus, clicking in menus and whether the game distinguishes mouse devices. Make sure to test each one after changing options.
 
 If you find that the game is confused where the mouse pointer is (ie it keeps moving towards the real Windows mouse cursor), try enabling `Filter mouse input messages from Windows`. Disable this if it doesn't work, as it can cause issues.
 
-If you want to use controllers, make sure to enable `Hook XInput for gamepads`
+If you want to use controllers, make sure to enable `Hook XInput for gamepads`. If you want to use more than 4 controllers, enable the `DInput to XInput translation` hook. If a game uses DirectInput for controller input (mostly only games from the early 2000s will), you will need the use the DirectInput start up hook in the Utility tab to launch the game.
 
 If the game uses raw input and isn't responding to any mouse input, try enabling `Send raw mouse input`. 
 Make sure anything related to raw input is turned on in the game's options.
 This isn't recommended unless necessary, since it has the worst performance. 
 
-If the game is responding to multiple mice, try enabling `Filter raw input messages from Windows`.
+If the game is responding to multiple mice, try enabling `Filter raw input messages from Windows`. This can also help if the game isn't responding to any mouse input.
 
 If mouse input isn't working at this stage, it's likely that the game uses a legacy mouse input method. 
 Make sure to ***disable*** anything to do with raw input, in the options and the game itself, and enable `Send normal mouse input`, `Hook GetCursorPos`, `Hook SetCursorPos` and `Use legacy input`. `Update absolute position flag in mouse move messages` is also highly recommended for legacy input, especially if you notice sudden jerks in movement.
