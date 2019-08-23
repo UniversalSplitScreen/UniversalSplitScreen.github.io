@@ -30,7 +30,7 @@ permalink: /docs/guides/factorio/
 ## Split screen setup
 1. Install and run Universal Split Screen: see the [Quick Start guide](https://universalsplitscreen.github.io/docs/quickstart/).
 
-1. In options, load the Factorio preset.
+1. In options, load the Factorio preset. If it is unavailible, download [this](https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreenScripts/master/Scripts/Factorio/Factorio.json) as Factorio.json in the Config folder.
 
 1. Go back to the Current window tab. Alt+tab into the first instance. Set the mouse and keyboard. Repeat for the other instances.
 
