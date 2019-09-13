@@ -24,6 +24,11 @@ The Goldberg emulator replaces the Steam API dll, tricking games into letting yo
 1. Drag the original steam_api.dll (steam_api.dll.valve) onto generate_interfaces_file.exe in the tools folder (inside the Golberg folder). This will generate a steam_interfaces.txt file next to the steam_api.dll files.
 
 ## Setup
+#### Automatic
+1. In Universal Split Screen, go to Utilities -> Startup hooks. Browse for the game executable and check 64-bit if the game is 64-bit. Enable `Use Appdata and user folder switch` and select an index. Click Launch. Then change the index and click Launch again. Repeat as many times as you need.
+1. By doing this, each instance will have its own appdata folder which Goldberg stores its user id and save files, so it is not necessary to manually edit the config files.
+
+#### Manual
 1. Launch the game from its executable (exe).
 1. Before you launch a second instance, you will need to change your (fake) username and steam id.
 1. Press Windows+R to open a command window, type in `%appdata%` and click OK. Navigate to Goldberg SteamEmu Saves\settings
