@@ -20,3 +20,5 @@ permalink: /docs/importantnotes/
 * If you want to use a controller that doesn't work out of the box with a game, you will need to use [x360ce](https://universalsplitscreen.github.io/docs/x360ce/).
 
 * You can use the same keyboard as the input device for multiple games. You will need to change the controls for each instance, e.g. one uses WASD and one uses the number pad.
+
+* If you see a trail of mouse cursors, make sure your Windows cursor size is set to the smallest and that display scaling is set to 100%
