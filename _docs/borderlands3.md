@@ -17,6 +17,8 @@ This guide is for multiple gamepads only. You may wish to experiment with the se
 
 1. Go to BL3 sandbox settings, Resource Access, File Access, Full Access, and add `C:/` drive
 
+1. Download WASP.dll from [here](https://github.com/UniversalSplitScreen/UniversalSplitScreenScripts/blob/master/Scripts/Borderlands3/Modules/WASP/WASP.dll) and save it to \Documents\WindowsPowershell\Modules\WASP\WASP.dll
+
 1. Copy the Split Screen script from [here]( https://raw.githubusercontent.com/UniversalSplitScreen/UniversalSplitScreenScripts/master/Scripts/Borderlands3/Borderlands3_SplitScreen.ps1) into Powershell ISE (or your favourite editor) and edit the variables at the top to match your setup
 
 1. Save the script to `\Documents\WindowsPowershell\Scripts\Borderlands3_SplitScreen.ps1`
